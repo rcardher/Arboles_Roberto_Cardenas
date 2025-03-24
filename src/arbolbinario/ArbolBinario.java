@@ -33,9 +33,9 @@ public class ArbolBinario {
             System.out.print(nodo.valor + " ");
             recorrerEnOrdenRec(nodo.derecho);
         }
-    } // <- Asegúrate de que esta llave esté presente
+    }
 
-} // <- Esta es la llave de cierre de la clase ArbolBinario
+}
 
 
 

@@ -25,4 +25,5 @@ public class Main {
         arbolBusqueda.buscar(25);
     }
 }
+//Para poder ejecutar todo el programa con un unico main principal , he creado este main
 
